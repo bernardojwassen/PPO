@@ -4,8 +4,8 @@ Este projeto consiste no desenvolvimento de um sistema de Ponto de Venda (PDV) W
 ## 🎯 Objetivos
 - O sistema visa proporcionar uma infraestrutura tecnológica acessível para que pequenos comerciantes possam organizar seus negócios de forma estável, promovendo o crescimento econômico.
 - O projeto está alinhado com os Objetivos de Desenvolvimento Sustentável (ODS) da ONU:
-* ODS 8: Trabalho Decente e Crescimento Econômico.
-* ODS 9: Indústria, Inovação e Infraestrutura.
+  - ODS 8: Trabalho Decente e Crescimento Econômico.
+  - ODS 9: Indústria, Inovação e Infraestrutura.
 
 ## ✨ Funcionalidades Principais
 - Frente de Caixa (PDV): Realização de vendas rápidas com busca de produtos por nome ou leitura de código de barras.
@@ -21,7 +21,7 @@ Este projeto consiste no desenvolvimento de um sistema de Ponto de Venda (PDV) W
 
 ## 📁 Estrutura do Projeto (Documentação)
 - O projeto seguiu um fluxo rigoroso de planejamento, incluindo:
--- Definição de Escopo e Requisitos.
--- Diagramas de Casos de Uso.
--- Protótipos de Baixa Fidelidade (UI/UX).
--- Modelagem de Banco de Dados (Conceitual e Lógico).
+  - Definição de Escopo e Requisitos.
+  - Diagramas de Casos de Uso.
+  - Protótipos de Baixa Fidelidade (UI/UX).
+  - Modelagem de Banco de Dados (Conceitual e Lógico).
