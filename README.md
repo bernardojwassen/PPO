@@ -1,27 +1,34 @@
-# Protótipo de PDV (Ponto de Venda)
-Este projeto consiste no desenvolvimento de um sistema de Ponto de Venda (PDV) Web voltado para a otimização de pequenos comércios, como mercados de bairro, conveniências e mercearias familiares.
+# POS/PDV (Point of Sale/Ponto de Venda) Prototype
 
-## 🎯 Objetivos
-- O sistema visa proporcionar uma infraestrutura tecnológica acessível para que pequenos comerciantes possam organizar seus negócios de forma estável, promovendo o crescimento econômico.
-- O projeto está alinhado com os Objetivos de Desenvolvimento Sustentável (ODS) da ONU:
-  - ODS 8: Trabalho Decente e Crescimento Econômico.
-  - ODS 9: Indústria, Inovação e Infraestrutura.
+This project consists of the development of a web-based Point of Sale (POS) system aimed at optimizing the operations of small businesses, such as neighborhood grocery stores, convenience stores, and family-owned markets.
 
-## ✨ Funcionalidades Principais
-- Frente de Caixa (PDV): Realização de vendas rápidas com busca de produtos por nome ou leitura de código de barras.
-- Controle de Estoque: Baixa automática de produtos após a finalização de cada venda.
-- Gestão de Produtos (CRUD): Cadastro, consulta, edição e exclusão de itens no catálogo.
-- Gestão de Usuários: Sistema de login seguro e gerenciamento de conta própria.
-- Relatórios: Geração de relatórios de fechamento de caixa e faturamento por período.
-- Multi-pagamento: Suporte para transações em Dinheiro, Pix e Cartão.
+## 🎯 Objectives
 
-## 🛠️ Requisitos do Sistema
-- Funcionais: O sistema permite o gerenciamento completo de vendas e estoque via navegador.
-- Não Funcionais: Interface amigável, segurança no armazenamento de dados e flexibilidade de tempo para operações operacionais.
+* The system aims to provide an accessible technological infrastructure that helps small business owners organize and manage their operations efficiently, fostering economic growth.
+* The project is aligned with the United Nations Sustainable Development Goals (SDGs):
 
-## 📁 Estrutura do Projeto (Documentação)
-- O projeto seguiu um fluxo rigoroso de planejamento, incluindo:
-  - Definição de Escopo e Requisitos.
-  - Diagramas de Casos de Uso.
-  - Protótipos de Baixa Fidelidade (UI/UX).
-  - Modelagem de Banco de Dados (Conceitual e Lógico).
+  * SDG 8: Decent Work and Economic Growth.
+  * SDG 9: Industry, Innovation, and Infrastructure.
+
+## ✨ Main Features
+
+* **Point of Sale (POS):** Fast sales processing with product search by name or barcode scanning.
+* **Inventory Management:** Automatic stock deduction after each completed sale.
+* **Product Management (CRUD):** Create, view, update, and delete products in the catalog.
+* **User Management:** Secure login system and personal account management.
+* **Reports:** Generation of cash register closing reports and revenue reports by period.
+* **Multiple Payment Methods:** Support for Cash, Pix, and Card transactions.
+
+## 🛠️ System Requirements
+
+* **Functional Requirements:** The system allows complete management of sales and inventory through a web browser.
+* **Non-Functional Requirements:** User-friendly interface, secure data storage, and operational flexibility.
+
+## 📁 Project Structure (Documentation)
+
+The project followed a structured planning process, including:
+
+* Scope and Requirements Definition.
+* Use Case Diagrams.
+* Low-Fidelity UI/UX Prototypes.
+* Database Modeling (Conceptual and Logical).
